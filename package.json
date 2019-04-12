@@ -1,0 +1,25 @@
+{
+  "name": "semana12_viernes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "install": "^0.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabellajordan/express-formularios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabellajordan/express-formularios/issues"
+  },
+  "homepage": "https://github.com/isabellajordan/express-formularios#readme"
+}
